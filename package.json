@@ -1,0 +1,11 @@
+{
+  "name": "czat",
+  "version": "1.0.0",
+  "description": "Czat z obsługą bazy danych",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcin Szpaderski",
+  "license": "ISC"
+}
